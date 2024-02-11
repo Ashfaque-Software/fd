@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ashfaque-Software/fd/static/css/main.bfdb1aff.css",
+    "main.js": "/Ashfaque-Software/fd/static/js/main.b791f709.js",
+    "index.html": "/Ashfaque-Software/fd/index.html",
+    "main.bfdb1aff.css.map": "/Ashfaque-Software/fd/static/css/main.bfdb1aff.css.map",
+    "main.b791f709.js.map": "/Ashfaque-Software/fd/static/js/main.b791f709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfdb1aff.css",
+    "static/js/main.b791f709.js"
+  ]
+}
